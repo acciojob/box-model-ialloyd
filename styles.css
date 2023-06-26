@@ -13,7 +13,7 @@
 
 .green{
 
-	background-color:#018000;
+	background-color:rgb(0, 128, 0);
 	height:100px;
 	width:100px;
 	border-radius:50%;
@@ -21,7 +21,7 @@
 
 .yellow{
 
-	background-color:#FFFF02;
+	background-color:rgb(255, 255, 0);
 	height:100px;
 	width:100px;
 	border-radius:50%;
